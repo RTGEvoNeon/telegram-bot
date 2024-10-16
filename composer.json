@@ -1,0 +1,17 @@
+{
+    "name": "frizar_ilya/bot",
+    "autoload": {
+        "psr-4": {
+            "FrizarIlya\\Bot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilya Kondryukov",
+            "email": "mat8765@mail.ru"
+        }
+    ],
+    "require": {
+        "longman/telegram-bot": "^0.83.1"
+    }
+}
